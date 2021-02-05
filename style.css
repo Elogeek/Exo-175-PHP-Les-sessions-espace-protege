@@ -1,0 +1,25 @@
+#error {
+    position: absolute;
+    z-index: -1000;
+    background-color: darkred;
+    color:white;
+    font-weight: bold;
+    font-size: large;
+    width: 100%;
+    top:78%;
+    height: 10%;
+    text-align: center;
+}
+
+#great {
+    position: absolute;
+    z-index: -1000;
+    background-color: chartreuse;
+    color:white;
+    font-weight: bold;
+    font-size: large;
+    width: 100%;
+    top:78%;
+    height: 10%;
+    text-align: center;
+}
